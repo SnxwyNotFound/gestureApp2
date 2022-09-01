@@ -1,0 +1,44 @@
+body {
+    color: rgb(255, 97, 208);
+    background: rgb(143, 247, 166);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+span {
+    font-size: 30px;
+}
+
+#camera, #result {
+    border: 2px solid white;
+    width: 350px;
+    height: 300px;
+}
+
+.object_name {
+    font-size: 40px;
+}
+
+.gesture_icon {
+    font-size: 48px;
+}
+
+.heading {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    color:rgb(15, 27, 97);
+}
+
+label {
+    font-size: 14px;
+    color: #ff62d8;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: white;
+    font-family: 'papyrus';
+    font-weight: normal;
+}
+#btn1,#btn2,#btn3{
+    color:rgb(240, 6, 240);
+}
